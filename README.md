@@ -33,14 +33,14 @@ This Bash project provides a **simple yet powerful shell script (`user_backup.sh
 
 ## Features
 
-✔️ Add, remove, and manage users safely
-✔️ Create and manage groups
-✔️ Backup any specified directory
-✔️ Compressed backups using `.tar.gz`
-✔️ Timestamped backup files for easy tracking
-✔️ Logging of all operations (user mgmt & backups)
-✔️ Root permission checks with validation checks
-✔️ Works across multiple Linux distributions
+- Add, remove, and manage users safely
+- Create and manage groups
+- Backup any specified directory
+- Compressed backups using `.tar.gz`
+- Timestamped backup files for easy tracking
+- Logging of all operations (user mgmt & backups)
+- Root permission checks with validation checks
+- Works across multiple Linux distributions
 
 ---
 
