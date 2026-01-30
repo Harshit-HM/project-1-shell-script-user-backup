@@ -80,13 +80,13 @@ Project-1-Shell_Script_User_Backup/
 1. **Clone the repository**
 
    ```bash
-   git clone https://github.com/Shipra-SG/Project-1-Shell_Script_User_Backup.git
+   git clone https://github.com/Harshit-HM/project-1-shell-script-user-backup.git
    ```
 
 2. **Go to the project directory**
 
    ```bash
-   cd Project-1-Shell_Script_User_Backup
+   cd project-1-shell-script-user-backup
    ```
 
 3. **Make the script executable**
